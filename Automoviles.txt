@@ -1,0 +1,17 @@
+Nombre: Lamborghini Aventador SVJ
+Marca: Lamborghini
+Color: Verde lima
+Año: 2020
+Precio: alrededor de $520,000 USD
+
+Nombre: Porsche 911 GT3 RS
+Marca: Porsche
+Color: Blanco Carrera
+Año: 2021
+Precio: alrededor de $187,500 USD
+
+Nombre: Ferrari F8 Tributo
+Marca: Ferrari
+Color: Rojo corsa
+Año: 2022
+Precio: alrededor de $275,000 USD
